@@ -13,6 +13,7 @@ Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
 
 [sources]
 Makie = {rev="units-matrix", subdir="Makie", url="https://github.com/icweaver/Makie.jl"}
+GeoInterface = {rev="makie-v0.25", subdir="Makie", url="https://github.com/icweaver/GeoInterface.jl"}
 
 [compat]
 Aqua = "0.8"
